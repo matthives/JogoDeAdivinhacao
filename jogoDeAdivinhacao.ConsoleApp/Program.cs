@@ -19,13 +19,26 @@ Console.WriteLine("-----------------------------------");
 Console.WriteLine("Jogo de Adivinhação");
 Console.WriteLine("-----------------------------------");
 
-Console.WriteLine();
-Console.Write("Digite um número: ");
-string strNumeroDigitado = Console.ReadLine();
-
-// 1 - 20 (numero minimo, numero maximo (exclusivo))
 int numeroAleatorio = RandomNumberGenerator.GetInt32(1, 21);
 
-Console.WriteLine("O número digitado foi: " + numeroAleatorio);
+Console.WriteLine();
+Console.Write("Digite um número: ");
+int numeroDigitado = Convert.ToInt32(Console.ReadLine());
+
+
+if (numeroAleatorio == numeroDigitado)
+{
+    Console.WriteLine("Parabéns, você acertou! O número era " + numeroAleatorio);
+}
+
+else if (numeroDigitado > numeroAleatorio)
+{
+    Console.WriteLine("O número digitado foi maior que o número secreto!");
+}
+
+else
+{
+    Console.WriteLine("O número digitado foi maior que o número secreto!");
+}
 
 Console.ReadLine();
