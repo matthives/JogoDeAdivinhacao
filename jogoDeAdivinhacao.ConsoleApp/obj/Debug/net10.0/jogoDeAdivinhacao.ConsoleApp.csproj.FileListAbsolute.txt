@@ -1,0 +1,15 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\PROGRAMACAO\ACADEMIA PROGRAMADOR - BACK END\JogoDeAdivinhacao\jogoDeAdivinhacao.ConsoleApp\bin\Debug\net10.0\jogoDeAdivinhacao.ConsoleApp.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\PROGRAMACAO\ACADEMIA PROGRAMADOR - BACK END\JogoDeAdivinhacao\jogoDeAdivinhacao.ConsoleApp\bin\Debug\net10.0\jogoDeAdivinhacao.ConsoleApp.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PROGRAMACAO\ACADEMIA PROGRAMADOR - BACK END\JogoDeAdivinhacao\jogoDeAdivinhacao.ConsoleApp\bin\Debug\net10.0\jogoDeAdivinhacao.ConsoleApp.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PROGRAMACAO\ACADEMIA PROGRAMADOR - BACK END\JogoDeAdivinhacao\jogoDeAdivinhacao.ConsoleApp\bin\Debug\net10.0\jogoDeAdivinhacao.ConsoleApp.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PROGRAMACAO\ACADEMIA PROGRAMADOR - BACK END\JogoDeAdivinhacao\jogoDeAdivinhacao.ConsoleApp\bin\Debug\net10.0\jogoDeAdivinhacao.ConsoleApp.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\PROGRAMACAO\ACADEMIA PROGRAMADOR - BACK END\JogoDeAdivinhacao\jogoDeAdivinhacao.ConsoleApp\obj\Debug\net10.0\jogoDeAdivinhacao.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Área de Trabalho\PROGRAMACAO\ACADEMIA PROGRAMADOR - BACK END\JogoDeAdivinhacao\jogoDeAdivinhacao.ConsoleApp\obj\Debug\net10.0\jogoDeAdivinhacao.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PROGRAMACAO\ACADEMIA PROGRAMADOR - BACK END\JogoDeAdivinhacao\jogoDeAdivinhacao.ConsoleApp\obj\Debug\net10.0\jogoDeAdivinhacao.ConsoleApp.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\PROGRAMACAO\ACADEMIA PROGRAMADOR - BACK END\JogoDeAdivinhacao\jogoDeAdivinhacao.ConsoleApp\obj\Debug\net10.0\jogoDeAdivinhacao.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PROGRAMACAO\ACADEMIA PROGRAMADOR - BACK END\JogoDeAdivinhacao\jogoDeAdivinhacao.ConsoleApp\obj\Debug\net10.0\jogoDeAdivinhacao.ConsoleApp.sourcelink.json
+C:\Users\mateu\OneDrive\Área de Trabalho\PROGRAMACAO\ACADEMIA PROGRAMADOR - BACK END\JogoDeAdivinhacao\jogoDeAdivinhacao.ConsoleApp\obj\Debug\net10.0\jogoDeAdivinhacao.ConsoleApp.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PROGRAMACAO\ACADEMIA PROGRAMADOR - BACK END\JogoDeAdivinhacao\jogoDeAdivinhacao.ConsoleApp\obj\Debug\net10.0\refint\jogoDeAdivinhacao.ConsoleApp.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\PROGRAMACAO\ACADEMIA PROGRAMADOR - BACK END\JogoDeAdivinhacao\jogoDeAdivinhacao.ConsoleApp\obj\Debug\net10.0\jogoDeAdivinhacao.ConsoleApp.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\PROGRAMACAO\ACADEMIA PROGRAMADOR - BACK END\JogoDeAdivinhacao\jogoDeAdivinhacao.ConsoleApp\obj\Debug\net10.0\jogoDeAdivinhacao.ConsoleApp.genruntimeconfig.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\PROGRAMACAO\ACADEMIA PROGRAMADOR - BACK END\JogoDeAdivinhacao\jogoDeAdivinhacao.ConsoleApp\obj\Debug\net10.0\ref\jogoDeAdivinhacao.ConsoleApp.dll
