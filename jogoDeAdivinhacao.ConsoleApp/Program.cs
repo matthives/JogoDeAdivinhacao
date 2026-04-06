@@ -48,7 +48,7 @@ while (jogoDeveContinuar == true)
     Console.WriteLine("-----------------------------------");
     Console.WriteLine("1 - Fácil (10 tentativas)");
     Console.WriteLine("2 - Médio (5 tentativas)");
-    Console.WriteLine("1 - Difícil (3 tentativas)");
+    Console.WriteLine("3 - Difícil (3 tentativas)");
     Console.WriteLine("-----------------------------------");
 
     Console.Write("Digite sua escolha: ");
